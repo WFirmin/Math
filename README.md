@@ -1,1 +1,3 @@
-Test
+In these files I implement numerous mathematical methods, the theory of which was covered in my math courses.  The file Math.ipynb contains everything I've added so far, while the other files are highlighted parts that have added theory in LaTeX for a more complete demonstration.  The implementations are not complete yet, but so far include optimization, root finding, numerical linear algebra, polynomial interpolation, differentiation, and integration methods.  I will also add code for Fourier Transforms and solving differential equations.
+
+Please have a look at the differentiation notebook to see how multiple evaluations of a function can yield a more accurate estimate of its derivative.
